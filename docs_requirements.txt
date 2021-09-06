@@ -5,12 +5,12 @@ chardet==3.0.4
 docutils==0.14
 idna==2.6
 imagesize==0.7.1
-Jinja2==2.10
+Jinja2==2.11.3
 MarkupSafe==1.0
 numpy==1.14.0
 numpydoc==0.7.0
 protobuf==3.5.1
-Pygments==2.2.0
+Pygments==2.7.4
 pytz==2017.3
 requests==2.18.4
 six==1.10.0
