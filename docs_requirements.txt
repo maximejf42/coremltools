@@ -9,7 +9,7 @@ Jinja2==2.10
 MarkupSafe==1.0
 numpy==1.14.0
 numpydoc==0.7.0
-protobuf==3.5.1
+protobuf==4.25.8
 Pygments==2.2.0
 pytz==2017.3
 requests==2.18.4
@@ -20,4 +20,4 @@ sphinx-rtd-theme==0.2.4
 sphinxcontrib-websupport==1.0.1
 sphinxtogithub==1.1.0
 typing==3.6.4
-urllib3==1.22
+urllib3==2.5.0
